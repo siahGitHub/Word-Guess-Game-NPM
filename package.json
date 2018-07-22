@@ -1,0 +1,22 @@
+{
+  "name": "word-guess-game-npm",
+  "version": "1.0.0",
+  "description": "A Word Guess command-line game using constructor functions.",
+  "main": "wordGuess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siahGitHub/Word-Guess-Game-NPM.git"
+  },
+  "author": "Dwayne M. Hinds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siahGitHub/Word-Guess-Game-NPM/issues"
+  },
+  "homepage": "https://github.com/siahGitHub/Word-Guess-Game-NPM#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
